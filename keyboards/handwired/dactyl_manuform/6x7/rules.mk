@@ -1,4 +1,6 @@
-
+#Bootloader Section
+#I have a promicro setup. Read more here https://beta.docs.qmk.fm/using-qmk/guides/flashing/flashing
+BOOTLOADER = caterina
 # Build Options
 #   change to "no" to disable the options, or define them in the Makefile in
 #   the appropriate keymap folder that will get included automatically
